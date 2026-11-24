@@ -18,7 +18,7 @@ Employee attrition is costly for any company. In this project I analyzed an HR d
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](images/dashboard.png)
+![HR Analytics Dashboard](images/HR-Analysis_Dashboard.png)
 
 ## What the Dashboard Shows
 
